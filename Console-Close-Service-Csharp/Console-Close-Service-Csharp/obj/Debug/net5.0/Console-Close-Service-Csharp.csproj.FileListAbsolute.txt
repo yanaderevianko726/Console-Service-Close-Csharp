@@ -1,0 +1,16 @@
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\bin\Debug\net5.0\Console-Close-Service-Csharp.exe
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\bin\Debug\net5.0\Console-Close-Service-Csharp.deps.json
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\bin\Debug\net5.0\Console-Close-Service-Csharp.runtimeconfig.json
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\bin\Debug\net5.0\Console-Close-Service-Csharp.runtimeconfig.dev.json
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\bin\Debug\net5.0\Console-Close-Service-Csharp.dll
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\bin\Debug\net5.0\ref\Console-Close-Service-Csharp.dll
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\bin\Debug\net5.0\Console-Close-Service-Csharp.pdb
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\obj\Debug\net5.0\Console-Close-Service-Csharp.csproj.AssemblyReference.cache
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\obj\Debug\net5.0\Console-Close-Service-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\obj\Debug\net5.0\Console-Close-Service-Csharp.AssemblyInfoInputs.cache
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\obj\Debug\net5.0\Console-Close-Service-Csharp.AssemblyInfo.cs
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\obj\Debug\net5.0\Console-Close-Service-Csharp.csproj.CoreCompileInputs.cache
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\obj\Debug\net5.0\Console-Close-Service-Csharp.dll
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\obj\Debug\net5.0\ref\Console-Close-Service-Csharp.dll
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\obj\Debug\net5.0\Console-Close-Service-Csharp.pdb
+D:\Env_Pty_Ltd\Programms\Console-Service-Close-Csharp\Console-Close-Service-Csharp\Console-Close-Service-Csharp\obj\Debug\net5.0\Console-Close-Service-Csharp.genruntimeconfig.cache
